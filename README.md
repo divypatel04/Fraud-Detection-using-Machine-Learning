@@ -94,10 +94,5 @@ Example:
 ## Contributing
 Contributions are welcome! Please feel free to raise issues, suggest improvements, or submit pull requests.
 
-### Contributors
-- **Abhishek Panta** (pantaa@uwindsor.ca)
-- **Ajay Charan** (charan2@uwindsor.ca)
-- **Divy Patel** (patel3ma@uwindsor.ca)
-
 ## License
 This project is licensed under the MIT License.
